@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">My Stuff</lang>
+		<lang name="russian">Мои Вещи, как на Лепре</lang>
+	</name>
+	<author>
+		<lang name="default">Alexey Kulikov / essentialmind gmbh</lang>
+		<lang name="russian">Алексей Куликов / clops.at</lang>
+	</author>
+	<homepage>http://essentialmind.com</homepage>
+	<version>0.2.0</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Create a My Stuff page, a lot like the one on Leprosorium.ru (that does not exist)</lang>
+		<lang name="russian">Создаёт раздел сайта "Мои Вещи" практически как на лепре, куда попадают все записи откомментированые либо пользователем либо его друзьями.</lang>
+	</description>
+</plugin>
